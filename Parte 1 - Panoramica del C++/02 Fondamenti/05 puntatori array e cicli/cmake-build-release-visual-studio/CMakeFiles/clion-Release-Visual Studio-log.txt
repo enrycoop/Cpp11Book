@@ -1,0 +1,54 @@
+C:\Users\enric\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -S "C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli" -B "C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio"
+-- Building for: Visual Studio 17 2022
+-- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.22631.
+-- The C compiler identification is MSVC 19.40.33811.0
+-- The CXX compiler identification is MSVC 19.40.33811.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe - broken
+CMake Error at C:/Users/enric/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: 'C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-release-visual-studio/CMakeFiles/CMakeScratch/TryCompile-cfvzn7'
+    
+    Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_49db6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+    Versione di MSBuild 17.10.4+10fbfbf2e per .NET Framework
+    Compilazione avviata 07/06/2024 21:07:51.
+    
+    Progetto "C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio\CMakeFiles\CMakeScratch\TryCompile-cfvzn7\cmTC_49db6.vcxproj" sul nodo 1 (destinazioni predefinite).
+    PrepareForBuild:
+      Creazione directory "cmTC_49db6.dir\Debug\".
+      Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+      Creazione directory "C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio\CMakeFiles\CMakeScratch\TryCompile-cfvzn7\Debug\".
+      Creazione directory "cmTC_49db6.dir\Debug\cmTC_49db6.tlog\".
+    C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(382,5): error MSB3491: non ├¿ stato possibile scrivere righe nel file "cmTC_49db6.dir\Debug\cmTC_49db6.tlog\cmTC_49db6.lastbuildstate". Il percorso cmTC_49db6.dir\Debug\cmTC_49db6.tlog\cmTC_49db6.lastbuildstate supera il limite massimo dei percorsi del sistema operativo. Il nome completo del file deve essere composto da meno di 260. [C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio\CMakeFiles\CMakeScratch\TryCompile-cfvzn7\cmTC_49db6.vcxproj]
+    Compilazione progetto "C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio\CMakeFiles\CMakeScratch\TryCompile-cfvzn7\cmTC_49db6.vcxproj" (destinazioni predefinite) NON COMPLETATA.
+    
+    Compilazione NON RIUSCITA.
+    
+    "C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio\CMakeFiles\CMakeScratch\TryCompile-cfvzn7\cmTC_49db6.vcxproj" (destinazione predefinita) (1) ->
+    (destinazione: InitializeBuildStatus) -> 
+      C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(382,5): error MSB3491: non ├¿ stato possibile scrivere righe nel file "cmTC_49db6.dir\Debug\cmTC_49db6.tlog\cmTC_49db6.lastbuildstate". Il percorso cmTC_49db6.dir\Debug\cmTC_49db6.tlog\cmTC_49db6.lastbuildstate supera il limite massimo dei percorsi del sistema operativo. Il nome completo del file deve essere composto da meno di 260. [C:\Users\enric\source\repos\Cpp11Book\Parte 1 - Panoramica del C++\02 Fondamenti\02 I Fondamenti\05 puntatori array e cicli\cmake-build-release-visual-studio\CMakeFiles\CMakeScratch\TryCompile-cfvzn7\cmTC_49db6.vcxproj]
+    
+        Avvisi: 0
+        Errori: 1
+    
+    Tempo trascorso 00:00:00.10
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:12 (project)
+
+
+-- Configuring incomplete, errors occurred!

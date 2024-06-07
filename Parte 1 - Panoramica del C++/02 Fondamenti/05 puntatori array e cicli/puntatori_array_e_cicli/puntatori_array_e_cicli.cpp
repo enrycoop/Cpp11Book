@@ -67,9 +67,9 @@ int main()
 
 	char* p = &v[3]; // puntatore a 4 elemento di v
 	/*
-	       p:| |
-			      |
-					  v
+         p:| |
+            |
+            v
 	v: | | | | | | |
 	*/
 

@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "puntatori_array_e_cicli",
+					"jsonFile" : "directory-puntatori_array_e_cicli-Debug-7c8bf27df32a40da1bac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "puntatori_array_e_cicli",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "05 puntatori array e cicli",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "puntatori_array_e_cicli::@5137ace11d9328c584e5",
+					"jsonFile" : "target-puntatori_array_e_cicli-Debug-f4cc6798c2d806b3f834.json",
+					"name" : "puntatori_array_e_cicli",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-debug",
+		"source" : "C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

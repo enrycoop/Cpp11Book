@@ -1,0 +1,5 @@
+C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-debug/puntatori_array_e_cicli/CMakeFiles/puntatori_array_e_cicli.dir
+C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-debug/puntatori_array_e_cicli/CMakeFiles/edit_cache.dir
+C:/Users/enric/source/repos/Cpp11Book/Parte 1 - Panoramica del C++/02 Fondamenti/02 I Fondamenti/05 puntatori array e cicli/cmake-build-debug/puntatori_array_e_cicli/CMakeFiles/rebuild_cache.dir
